@@ -1,0 +1,21 @@
+payload:
+  - DOMAIN,bitfinex.com
+  - DOMAIN-SUFFIX,bitfinex.com
+  - DOMAIN,mode.network
+  - DOMAIN-SUFFIX,mode.network
+  - DOMAIN,kamino.finance
+  - DOMAIN-SUFFIX,kamino.finance
+  - DOMAIN,swissquote.ch
+  - DOMAIN-SUFFIX,swissquote.ch
+  - DOMAIN,swissquote.com
+  - DOMAIN-SUFFIX,swissquote.com
+  - DOMAIN,liquifi.finance
+  - DOMAIN-SUFFIX,liquifi.finance
+  - DOMAIN,msu.io
+  - DOMAIN-SUFFIX,msu.io
+  - DOMAIN,symbiotic.fi
+  - DOMAIN-SUFFIX,symbiotic.fi
+  - DOMAIN,orderly.network
+  - DOMAIN-SUFFIX,orderly.network
+  - DOMAIN,magpiexyz.io
+  - DOMAIN-SUFFIX,magpiexyz.io

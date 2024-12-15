@@ -1,0 +1,25 @@
+payload:
+  - DOMAIN,wise.com
+  - DOMAIN-SUFFIX,wise.com
+  - DOMAIN,ifixit.com
+  - DOMAIN-SUFFIX,ifixit.com
+  - DOMAIN,getgrass.io
+  - DOMAIN-SUFFIX,getgrass.io
+  - DOMAIN,api.bigdatacloud.net
+  - DOMAIN-SUFFIX,api.bigdatacloud.net
+  - DOMAIN,wyndlabs.ai
+  - DOMAIN-SUFFIX,wyndlabs.ai
+  - DOMAIN,wynd.network
+  - DOMAIN-SUFFIX,wynd.network
+  - DOMAIN,test-ipv6.com
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN,clarity.ms
+  - DOMAIN-SUFFIX,clarity.ms
+  - DOMAIN,schwab.com
+  - DOMAIN-SUFFIX,schwab.com
+  - DOMAIN,ocbc.com
+  - DOMAIN-SUFFIX,ocbc.com
+  - DOMAIN,sky.money
+  - DOMAIN-SUFFIX,sky.money
+  - DOMAIN,syrup.fi
+  - DOMAIN-SUFFIX,syrup.fi
