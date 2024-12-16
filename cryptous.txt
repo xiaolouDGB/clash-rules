@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN,cryptobubbles.net
+  - DOMAIN-SUFFIX,cryptobubbles.net
