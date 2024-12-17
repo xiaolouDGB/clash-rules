@@ -1,3 +1,5 @@
 payload:
   - DOMAIN,cryptobubbles.net
   - DOMAIN-SUFFIX,cryptobubbles.net
+  - DOMAIN-SUFFIX,linux.do
+
