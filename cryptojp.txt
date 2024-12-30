@@ -156,3 +156,5 @@ payload:
   - DOMAIN-SUFFIX,movementnetwork.xyz
   - DOMAIN,mefoundation.com
   - DOMAIN-SUFFIX,mefoundation.com
+  - DOMAIN,magpiexyz.io
+  - DOMAIN-SUFFIX,magpiexyz.io
