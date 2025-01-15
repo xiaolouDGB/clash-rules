@@ -3,4 +3,6 @@ payload:
   - DOMAIN-SUFFIX,cryptobubbles.net
   - DOMAIN,linux.do
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN,51cg.fun
+  - DOMAIN-SUFFIX,51cg.fun
 
