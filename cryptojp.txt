@@ -162,3 +162,7 @@ payload:
   - DOMAIN-SUFFIX,magpiexyz.io
   - DOMAIN,plumenetwork.xyz
   - DOMAIN-SUFFIX,plumenetwork.xyz
+  - DOMAIN,polymarket.com
+  - DOMAIN-SUFFIX,polymarket.com
+
+
