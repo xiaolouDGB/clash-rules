@@ -5,4 +5,7 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN,51cg.fun
   - DOMAIN-SUFFIX,51cg.fun
+  - DOMAIN,llamao.fi
+  - DOMAIN-SUFFIX,llamao.fi
+
 
