@@ -164,5 +164,8 @@ payload:
   - DOMAIN-SUFFIX,plumenetwork.xyz
   - DOMAIN,polymarket.com
   - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN,avalonfinance.xyz
+  - DOMAIN-SUFFIX,avalonfinance.xyz
+
 
 
