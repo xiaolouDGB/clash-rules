@@ -166,6 +166,8 @@ payload:
   - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN,avalonfinance.xyz
   - DOMAIN-SUFFIX,avalonfinance.xyz
+  - DOMAIN-SUFFIX,superform.xyz
+
 
 
 
