@@ -167,7 +167,4 @@ payload:
   - DOMAIN,avalonfinance.xyz
   - DOMAIN-SUFFIX,avalonfinance.xyz
   - DOMAIN-SUFFIX,superform.xyz
-
-
-
-
+  - DOMAIN-SUFFIX,babylon.foundation
