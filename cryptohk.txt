@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,symbiotic.fi
   - DOMAIN,orderly.network
   - DOMAIN-SUFFIX,orderly.network
+  - DOMAIN-SUFFIX,dcard.tw
