@@ -6,6 +6,5 @@ payload:
   - DOMAIN,51cg.fun
   - DOMAIN-SUFFIX,51cg.fun
   - DOMAIN,llamao.fi
-  - DOMAIN-SUFFIX,llamao.fi
-
-
+  - DOMAIN,23img.com
+  - DOMAIN,66img.cc
