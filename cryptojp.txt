@@ -171,4 +171,4 @@ payload:
   - DOMAIN-SUFFIX,infini.money
   - DOMAIN-SUFFIX,huma.finance
   - DOMAIN-SUFFIX,bluefin.io
-
+  - DOMAIN-SUFFIX,humanity.org
