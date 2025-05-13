@@ -170,3 +170,5 @@ payload:
   - DOMAIN-SUFFIX,babylon.foundation
   - DOMAIN-SUFFIX,infini.money
   - DOMAIN-SUFFIX,huma.finance
+  - DOMAIN-SUFFIX,bluefin.io
+
