@@ -169,4 +169,4 @@ payload:
   - DOMAIN-SUFFIX,superform.xyz
   - DOMAIN-SUFFIX,babylon.foundation
   - DOMAIN-SUFFIX,infini.money
-
+  - DOMAIN-SUFFIX,huma.finance
