@@ -176,3 +176,4 @@ payload:
   - DOMAIN-SUFFIX,gateimg.com
   - DOMAIN-SUFFIX,gatetrace.com
   - DOMAIN-SUFFIX,gateio.live
+  - DOMAIN-SUFFIX,bitget.com
