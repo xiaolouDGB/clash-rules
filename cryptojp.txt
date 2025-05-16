@@ -172,3 +172,7 @@ payload:
   - DOMAIN-SUFFIX,huma.finance
   - DOMAIN-SUFFIX,bluefin.io
   - DOMAIN-SUFFIX,humanity.org
+  - DOMAIN-SUFFIX,gatedata.org
+  - DOMAIN-SUFFIX,gateimg.com
+  - DOMAIN-SUFFIX,gatetrace.com
+  - DOMAIN-SUFFIX,gateio.live
