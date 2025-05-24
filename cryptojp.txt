@@ -179,4 +179,6 @@ payload:
   - DOMAIN-SUFFIX,gate.com
   - DOMAIN-SUFFIX,bitget.com
   - DOMAIN-SUFFIX,maple.finance
+  - DOMAIN-SUFFIX,upshift.finance
+
 
