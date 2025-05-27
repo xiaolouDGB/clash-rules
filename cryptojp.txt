@@ -1,8 +1,6 @@
 payload:
   - DOMAIN,binance.com
   - DOMAIN-SUFFIX,binance.com
-  - DOMAIN,okx.com
-  - DOMAIN-SUFFIX,okx.com
   - DOMAIN,1inch.io
   - DOMAIN-SUFFIX,1inch.io
   - DOMAIN,bnbstatic.com
