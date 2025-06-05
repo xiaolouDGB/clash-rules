@@ -180,5 +180,9 @@ payload:
   - DOMAIN-SUFFIX,bitget.com
   - DOMAIN-SUFFIX,maple.finance
   - DOMAIN-SUFFIX,upshift.finance
+  - DOMAIN,gaib.ai
+  - DOMAIN-SUFFIX,gaib.ai
+
+
 
 
