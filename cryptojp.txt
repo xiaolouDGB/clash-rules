@@ -182,6 +182,8 @@ payload:
   - DOMAIN-SUFFIX,upshift.finance
   - DOMAIN,gaib.ai
   - DOMAIN-SUFFIX,gaib.ai
+  - DOMAIN,ethena.fi
+  - DOMAIN-SUFFIX,ethena.fi
 
 
 
