@@ -186,7 +186,7 @@ payload:
   - DOMAIN-SUFFIX,ethena.fi
   - DOMAIN,trustalabs.ai
   - DOMAIN-SUFFIX,trustalabs.ai
-
-
+  - DOMAIN,echelon.market
+  - DOMAIN-SUFFIX,echelon.market
 
 
