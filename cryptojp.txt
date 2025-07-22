@@ -184,6 +184,8 @@ payload:
   - DOMAIN-SUFFIX,gaib.ai
   - DOMAIN,ethena.fi
   - DOMAIN-SUFFIX,ethena.fi
+  - DOMAIN,trustalabs.ai
+  - DOMAIN-SUFFIX,trustalabs.ai
 
 
 
