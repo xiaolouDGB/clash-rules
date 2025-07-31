@@ -212,3 +212,7 @@ payload:
   - DOMAIN-SUFFIX,rate-x.io
   - DOMAIN,gaiafoundation.xyz
   - DOMAIN-SUFFIX,gaiafoundation.xyz
+  - DOMAIN,treehouse.finance
+  - DOMAIN-SUFFIX,treehouse.finance
+
+
