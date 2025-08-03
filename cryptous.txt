@@ -1,14 +1,18 @@
 payload:
   - DOMAIN,cryptobubbles.net
   - DOMAIN-SUFFIX,cryptobubbles.net
+  - DOMAIN,shuzijumin.com
+  - DOMAIN-SUFFIX,shuzijumin.com
   - DOMAIN,linux.do
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN,llamao.fi
   - DOMAIN-SUFFIX,llamao.fi
-  - DOMAIN,shuzijumin.com
-  - DOMAIN-SUFFIX,shuzijumin.com
   - DOMAIN,defillama.com
   - DOMAIN-SUFFIX,defillama.com
+  - DOMAIN,straitsx.com
+  - DOMAIN-SUFFIX,straitsx.com
+
+
 
 
 
