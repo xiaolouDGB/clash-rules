@@ -3,16 +3,13 @@ payload:
   - DOMAIN-SUFFIX,cryptobubbles.net
   - DOMAIN,linux.do
   - DOMAIN-SUFFIX,linux.do
-  - DOMAIN,51cg.fun
-  - DOMAIN-SUFFIX,51cg.fun
   - DOMAIN,llamao.fi
   - DOMAIN-SUFFIX,llamao.fi
-  - DOMAIN,23img.com
-  - DOMAIN-SUFFIX,23img.com
-  - DOMAIN,66img.cc
-  - DOMAIN-SUFFIX,66img.cc
   - DOMAIN,shuzijumin.com
   - DOMAIN-SUFFIX,shuzijumin.com
+  - DOMAIN,defillama.com
+  - DOMAIN-SUFFIX,defillama.com
+
 
 
 
