@@ -11,6 +11,10 @@ payload:
   - DOMAIN-SUFFIX,defillama.com
   - DOMAIN,straitsx.com
   - DOMAIN-SUFFIX,straitsx.com
+  - DOMAIN,backpack.exchange
+  - DOMAIN-SUFFIX,backpack.exchange
+
+
 
 
 
