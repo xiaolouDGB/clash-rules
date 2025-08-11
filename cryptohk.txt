@@ -18,5 +18,6 @@ payload:
   - DOMAIN,orderly.network
   - DOMAIN-SUFFIX,orderly.network
   - DOMAIN-SUFFIX,dcard.tw
+  - DOMAIN,coinbase.com
   - DOMAIN-SUFFIX,coinbase.com
 
