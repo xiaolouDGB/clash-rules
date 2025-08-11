@@ -207,7 +207,6 @@ payload:
   - DOMAIN,orderly.network
   - DOMAIN-SUFFIX,orderly.network
   - DOMAIN-SUFFIX,dcard.tw
-  - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN,rate-x.io
   - DOMAIN-SUFFIX,rate-x.io
   - DOMAIN,gaiafoundation.xyz
