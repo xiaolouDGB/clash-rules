@@ -214,5 +214,11 @@ payload:
   - DOMAIN-SUFFIX,gaiafoundation.xyz
   - DOMAIN,treehouse.finance
   - DOMAIN-SUFFIX,treehouse.finance
+  - DOMAIN,yei.finance
+  - DOMAIN-SUFFIX,yei.finance
+  - DOMAIN,takaralend.com
+  - DOMAIN-SUFFIX,takaralend.com
+
+
 
 
